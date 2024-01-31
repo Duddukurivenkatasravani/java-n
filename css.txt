@@ -1,0 +1,89 @@
+.container{
+    background-image:url(https://www.ikea.com/in/en/p/smycka-artificial-bouquet-pink-40409841/?utm_source=bing&utm_medium=cpc&utm_campaign=Standard%20Shopping_All%20Products&utm_term=4588055870847128&utm_content=Ad%20group%20%231
+    background-size:cover;
+    background-color:pink;
+
+
+    height:100vh;
+    padding;0px;
+    margin:0px;
+}
+.storename{
+    font-family:"Roboto";
+    font-size:32px;
+    text-align:center;
+}
+.abcname{
+    font-family:"flower";
+    font-size:42px;
+    font-align:center;
+    font-color:rgb(72,17,88)
+}
+.loginbutton{
+    font-family:"login";
+    font-size:48px;
+    font-weight:26px;
+}
+.singlebutton{
+    font-family:"single";
+    font-size:43px;
+    font-align:middle;
+    font-color:red(34,65,77)
+}
+.middlebutton{
+    font-family:"middle";
+    font-size:54px;
+    font-align:center;
+    font-color:pink(32,45,76)
+}
+.lastbutton{
+    font-family:"last";
+    font-size:67px;
+    font-weight:54px;
+    fornt-color:blue(23,43,45)   
+}
+.sign in page{
+    font-family:"sing in page";
+    font-size:56px;
+    font-display:4;
+}
+.checkbox{
+    font-family:"checkbox";
+    font-size:85px;
+    fornt-color:green(43,56,76)
+}
+.form{
+    font-family:"form";
+    font-size:45px;
+    font-color:pink(54,98,76)
+}
+.output{
+    font-family:"output";
+    font-size:98px;
+    font-weight:54px;
+}
+.layout{
+    font-family:"layout";
+    font-size:98px;
+    font-color:block(23,56,87)
+}
+.result{
+    font-family:"result";
+    font-size:56px;
+    font-color:red(34,45,65)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
